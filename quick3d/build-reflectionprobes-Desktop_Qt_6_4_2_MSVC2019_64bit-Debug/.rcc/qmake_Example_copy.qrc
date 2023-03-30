@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/Example">
+    <file alias="qmldir">C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/Example/qmldir</file>
+  </qresource>
+</RCC>
+

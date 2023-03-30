@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/background.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/background.png</file>
+    <file alias="icons/blue.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/blue.png</file>
+    <file alias="icons/circle.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/circle.png</file>
+    <file alias="icons/exit.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/exit.png</file>
+    <file alias="icons/fileclose.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/fileclose.png</file>
+    <file alias="icons/filenew.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/filenew.png</file>
+    <file alias="icons/fileopen.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/fileopen.png</file>
+    <file alias="icons/filesave.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/filesave.png</file>
+    <file alias="icons/green.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/green.png</file>
+    <file alias="icons/ok.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/ok.png</file>
+    <file alias="icons/rectangle.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/rectangle.png</file>
+    <file alias="icons/red.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/red.png</file>
+    <file alias="icons/redo.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/redo.png</file>
+    <file alias="icons/remove.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/remove.png</file>
+    <file alias="icons/triangle.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/triangle.png</file>
+    <file alias="icons/undo.png">C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo/icons/undo.png</file>
+  </qresource>
+</RCC>
+

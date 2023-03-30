@@ -1,0 +1,15 @@
+-rootPath
+C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes
+-cmake-output
+-output-file
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_reflectionprobes.cmake
+-importPath
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/Example
+-importPath
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug
+-importPath
+C:/Qt/6.4.2/msvc2019_64/./qml
+-qrcFiles
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/.rcc/qmake_Example.qrc
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/.rcc/qmake_Example_copy.qrc
+C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/.rcc/reflectionprobes_raw_qml_0.qrc

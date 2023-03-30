@@ -1,0 +1,149 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "plugin",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-plugin-Debug-5f1e53f78a09d1b9b93f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "plugin",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						6
+					]
+				},
+				{
+					"build" : "echowindow",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-echowindow-Debug-bce195e18e7a1b4b7e97.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "echowindow",
+					"targetIndexes" : 
+					[
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "plugandpaint",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "echoplugin::@26efe8164589a77d2096",
+					"jsonFile" : "target-echoplugin-Debug-b515af18b1b504e0f7cb.json",
+					"name" : "echoplugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "echoplugin_autogen::@26efe8164589a77d2096",
+					"jsonFile" : "target-echoplugin_autogen-Debug-f7933a666a643f2e7f55.json",
+					"name" : "echoplugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "echoplugin_autogen_timestamp_deps::@26efe8164589a77d2096",
+					"jsonFile" : "target-echoplugin_autogen_timestamp_deps-Debug-d5d3b858ceb86208caa5.json",
+					"name" : "echoplugin_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "echopluginwindow::@47e2417ce457c0b9c6e7",
+					"jsonFile" : "target-echopluginwindow-Debug-d8524cb75acdbc1dd369.json",
+					"name" : "echopluginwindow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "echopluginwindow_autogen::@47e2417ce457c0b9c6e7",
+					"jsonFile" : "target-echopluginwindow_autogen-Debug-39b36bb6e26734302294.json",
+					"name" : "echopluginwindow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "echopluginwindow_autogen_timestamp_deps::@47e2417ce457c0b9c6e7",
+					"jsonFile" : "target-echopluginwindow_autogen_timestamp_deps-Debug-b146a90041fe9e0ec27a.json",
+					"name" : "echopluginwindow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "qt_internal_plugins::@26efe8164589a77d2096",
+					"jsonFile" : "target-qt_internal_plugins-Debug-c80bb04fb418c125f646.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/echoplugin"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

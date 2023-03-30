@@ -1,0 +1,14 @@
+# ninja log v5
+22	617	7018678609533699	undo_autogen/timestamp	70895332415913d9
+22	617	7018678609533699	undo_autogen/mocs_compilation.cpp	70895332415913d9
+22	617	7018678609533699	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-undo-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/undo_autogen/timestamp	70895332415913d9
+22	617	7018678609533699	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-undo-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/undo_autogen/mocs_compilation.cpp	70895332415913d9
+618	713	7018678612539213	.rcc/qrc_undo.cpp	52189c9b6914b6e9
+618	713	7018678612539213	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-undo-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/.rcc/qrc_undo.cpp	52189c9b6914b6e9
+731	1114	7018678616505524	CMakeFiles/undo.dir/.rcc/qrc_undo.cpp.obj	bade5a66a3b662d8
+717	3251	7018678637860631	CMakeFiles/undo.dir/commands.cpp.obj	6d05936f62a3121
+720	3555	7018678640897914	CMakeFiles/undo.dir/document.cpp.obj	b6c5164eb10ee39b
+723	3654	7018678641889783	CMakeFiles/undo.dir/main.cpp.obj	548a7f843bbf7656
+714	3734	7018678642665623	CMakeFiles/undo.dir/undo_autogen/mocs_compilation.cpp.obj	f21a1ac98ff6e08f
+727	4743	7018678652709003	CMakeFiles/undo.dir/mainwindow.cpp.obj	e2eeb113596ffa17
+4744	5326	7018678658355210	undo.exe	3775af6579f882a5

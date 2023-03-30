@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-1f76a7126ffdb0a402b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "undo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "undo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-undo-Debug-9cd52f6d0c6642bfe625.json",
+					"name" : "undo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "undo_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-undo_autogen-Debug-e4eb9ad045a258b42109.json",
+					"name" : "undo_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "undo_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-undo_autogen_timestamp_deps-Debug-84909b96b59512a3a8c8.json",
+					"name" : "undo_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "undo_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-undo_other_files-Debug-a484ec47595e55480bae.json",
+					"name" : "undo_other_files",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-undo-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/undo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

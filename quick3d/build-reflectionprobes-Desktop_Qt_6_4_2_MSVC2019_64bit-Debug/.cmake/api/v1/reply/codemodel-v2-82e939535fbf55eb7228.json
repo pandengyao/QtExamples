@@ -1,0 +1,160 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f18e2d235d0488d00efc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "reflectionprobes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c0e1cec3292a557559c8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d30b067c0453f2377203.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-b1f8a4f74530f59b4737.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes-Debug-2dfaef02e2fd724082e2.json",
+					"name" : "reflectionprobes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_autogen-Debug-323d3c72eb74307a5757.json",
+					"name" : "reflectionprobes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_autogen_timestamp_deps-Debug-8104f434dcc3154e19e9.json",
+					"name" : "reflectionprobes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_other_files-Debug-1e36e5834b4238f84d18.json",
+					"name" : "reflectionprobes_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_qmlimportscan-Debug-6232c35aed57d00facdb.json",
+					"name" : "reflectionprobes_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_qmllint-Debug-1495ae712a96ae013c33.json",
+					"name" : "reflectionprobes_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_qmllint_json-Debug-a098c7f9e6e614cf5e65.json",
+					"name" : "reflectionprobes_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_qmltyperegistration-Debug-a6bc34bbf207d46e0a20.json",
+					"name" : "reflectionprobes_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "reflectionprobes_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-reflectionprobes_tooling-Debug-d5159344d59cffc70375.json",
+					"name" : "reflectionprobes_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Qt/Examples/Qt-6.4.2/quick3d/build-reflectionprobes-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug",
+		"source" : "C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

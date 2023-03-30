@@ -1,0 +1,10 @@
+# ninja log v5
+65	1434	6991018357820820	calculator_autogen/timestamp	704d6afd6b51778f
+65	1434	6991018357820820	calculator_autogen/mocs_compilation.cpp	704d6afd6b51778f
+65	1434	6991018357820820	C:/Qt/Examples/Qt-6.4.2/widgets/widgets/build-calculator-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/calculator_autogen/timestamp	704d6afd6b51778f
+65	1434	6991018357820820	C:/Qt/Examples/Qt-6.4.2/widgets/widgets/build-calculator-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/calculator_autogen/mocs_compilation.cpp	704d6afd6b51778f
+1453	5512	6991018404667935	CMakeFiles/calculator.dir/button.cpp.obj	8c8ab2cc06135523
+1483	5587	6991018405398165	CMakeFiles/calculator.dir/main.cpp.obj	8c50a5f95d19c151
+1437	5608	6991018405570183	CMakeFiles/calculator.dir/calculator_autogen/mocs_compilation.cpp.obj	a0f39625b7f2ff46
+1469	5710	6991018406655037	CMakeFiles/calculator.dir/calculator.cpp.obj	cca43f7fa46480ee
+5712	6756	6991018416820927	calculator.exe	d5a497e74ffcbf5f

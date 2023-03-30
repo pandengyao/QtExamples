@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="main.qml">C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes/main.qml</file>
+    <file alias="SettingsPanel.qml">C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes/SettingsPanel.qml</file>
+    <file alias="res/OpenfootageNET_lowerAustria01-1024.hdr">C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes/res/OpenfootageNET_lowerAustria01-1024.hdr</file>
+    <file alias="res/snowflake.png">C:/Qt/Examples/Qt-6.4.2/quick3d/reflectionprobes/res/snowflake.png</file>
+  </qresource>
+</RCC>
+

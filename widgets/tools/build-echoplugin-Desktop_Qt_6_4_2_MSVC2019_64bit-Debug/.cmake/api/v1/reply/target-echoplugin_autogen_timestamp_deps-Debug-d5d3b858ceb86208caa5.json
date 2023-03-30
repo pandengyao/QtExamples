@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"plugin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "echoplugin_autogen_timestamp_deps::@26efe8164589a77d2096",
+	"isGeneratorProvided" : true,
+	"name" : "echoplugin_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "plugin",
+		"source" : "plugin"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/plugin/CMakeFiles/echoplugin_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/plugin/CMakeFiles/echoplugin_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

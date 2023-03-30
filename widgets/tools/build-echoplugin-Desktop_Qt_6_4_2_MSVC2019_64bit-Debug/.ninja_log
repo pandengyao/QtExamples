@@ -1,0 +1,22 @@
+# ninja log v5
+21	494	7017638851300399	plugin/echoplugin_autogen/timestamp	c431019adc9c2917
+21	494	7017638851300399	plugin/echoplugin_autogen/mocs_compilation.cpp	c431019adc9c2917
+21	494	7017638851300399	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/plugin/echoplugin_autogen/timestamp	c431019adc9c2917
+21	494	7017638851300399	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/plugin/echoplugin_autogen/mocs_compilation.cpp	c431019adc9c2917
+28	524	7017638851507199	echowindow/echopluginwindow_autogen/timestamp	b3fa74675fab3f94
+28	524	7017638851507199	echowindow/echopluginwindow_autogen/mocs_compilation.cpp	b3fa74675fab3f94
+28	524	7017638851507199	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/echowindow/echopluginwindow_autogen/timestamp	b3fa74675fab3f94
+28	524	7017638851507199	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/echowindow/echopluginwindow_autogen/mocs_compilation.cpp	b3fa74675fab3f94
+495	3515	7017638882172350	plugin/CMakeFiles/echoplugin.dir/echoplugin_autogen/mocs_compilation.cpp.obj	a9b63f457beb0355
+525	3603	7017638883077967	echowindow/CMakeFiles/echopluginwindow.dir/echopluginwindow_autogen/mocs_compilation.cpp.obj	fd1235ea807c6493
+540	3605	7017638883057949	echowindow/CMakeFiles/echopluginwindow.dir/main.cpp.obj	effafbf5d221b1bd
+504	3632	7017638883467117	plugin/CMakeFiles/echoplugin.dir/echoplugin.cpp.obj	a8af8ba3b11f8240
+3633	4741	7017638893867229	echowindow/echoplugin.dll	30ee95d01b0e4a1
+532	5306	7017638900196983	echowindow/CMakeFiles/echopluginwindow.dir/echowindow.cpp.obj	589b9a87ecabc488
+5307	6105	7017638907659783	echowindow/echopluginwindow.exe	53749f34c2c8a6fd
+97	350	7017642239904060	echowindow/echopluginwindow_autogen/timestamp	b3fa74675fab3f94
+97	350	7017642239904060	echowindow/echopluginwindow_autogen/mocs_compilation.cpp	b3fa74675fab3f94
+97	350	7017642239904060	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/echowindow/echopluginwindow_autogen/timestamp	b3fa74675fab3f94
+97	350	7017642239904060	C:/Qt/Examples/Qt-6.4.2/widgets/tools/build-echoplugin-Desktop_Qt_6_4_2_MSVC2019_64bit-Debug/echowindow/echopluginwindow_autogen/mocs_compilation.cpp	b3fa74675fab3f94
+361	3080	7017642267164085	echowindow/CMakeFiles/echopluginwindow.dir/main.cpp.obj	effafbf5d221b1bd
+3081	3363	7017642269278482	echowindow/echopluginwindow.exe	53749f34c2c8a6fd
